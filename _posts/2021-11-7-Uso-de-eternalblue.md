@@ -79,6 +79,7 @@ Exploit target:
    --  ----
    0   Automatic Target
 ```
+
 * Ahora que sabemos que parámetros nos permite configurar el exploit, cambiaremos los necesarios. Primero, tendremos que saber la IP de la máquina víctima. La configuraremos con "set RHOST [IP de la victima]".
 
 * Después, comprobaremos si nuestra IP esta correctamente seleccionada, en caso contrario, usaremos "set LHOST [Nuestra IP]".

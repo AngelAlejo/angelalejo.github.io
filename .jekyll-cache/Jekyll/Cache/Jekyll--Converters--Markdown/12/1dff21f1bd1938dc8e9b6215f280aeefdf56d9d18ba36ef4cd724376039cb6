@@ -1,4 +1,4 @@
-I"�<ul>
+I"�<ul>
   <li>Confidencialidad: Totalmente comprometida.</li>
   <li>Integridad: Totalmente comprometida.</li>
   <li>Disponibilidad: Totalmente comprometida.</li>
@@ -78,6 +78,7 @@ Exploit target:
    --  ----
    0   Automatic Target
 </code></pre></div></div>
+
 <ul>
   <li>
     <p>Ahora que sabemos que parámetros nos permite configurar el exploit, cambiaremos los necesarios. Primero, tendremos que saber la IP de la máquina víctima. La configuraremos con “set RHOST [IP de la victima]”.</p>
